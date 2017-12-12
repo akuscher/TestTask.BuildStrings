@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseLib", "ParseLib\ParseLib.csproj", "{26C5F21B-06EB-4281-9915-B15C7522CA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomBracketStringGenerator", "RandomBracketStringGenerator\RandomBracketStringGenerator.csproj", "{3532A3B3-A156-4061-AD50-5AD7BAE352A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseClient", "ParseClient\ParseClient.csproj", "{6BD10618-B34D-4BF3-BFAA-FEE3E018732A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParseLibHost", "ParseLibHost\ParseLibHost.csproj", "{DF43A8A8-80D5-4661-A22E-6A2E76C4F89B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C5F21B-06EB-4281-9915-B15C7522CA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C5F21B-06EB-4281-9915-B15C7522CA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C5F21B-06EB-4281-9915-B15C7522CA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C5F21B-06EB-4281-9915-B15C7522CA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3532A3B3-A156-4061-AD50-5AD7BAE352A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3532A3B3-A156-4061-AD50-5AD7BAE352A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3532A3B3-A156-4061-AD50-5AD7BAE352A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3532A3B3-A156-4061-AD50-5AD7BAE352A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD10618-B34D-4BF3-BFAA-FEE3E018732A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD10618-B34D-4BF3-BFAA-FEE3E018732A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD10618-B34D-4BF3-BFAA-FEE3E018732A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD10618-B34D-4BF3-BFAA-FEE3E018732A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF43A8A8-80D5-4661-A22E-6A2E76C4F89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF43A8A8-80D5-4661-A22E-6A2E76C4F89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF43A8A8-80D5-4661-A22E-6A2E76C4F89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF43A8A8-80D5-4661-A22E-6A2E76C4F89B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

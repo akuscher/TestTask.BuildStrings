@@ -1,0 +1,9 @@
+D:\projects\TestTask.www.consultant.ru\ParseClient\bin\Debug\ParseClient.exe.config
+D:\projects\TestTask.www.consultant.ru\ParseClient\bin\Debug\ParseClient.exe
+D:\projects\TestTask.www.consultant.ru\ParseClient\bin\Debug\ParseClient.pdb
+D:\projects\TestTask.www.consultant.ru\ParseClient\obj\Debug\ParseClient.Form1.resources
+D:\projects\TestTask.www.consultant.ru\ParseClient\obj\Debug\ParseClient.Properties.Resources.resources
+D:\projects\TestTask.www.consultant.ru\ParseClient\obj\Debug\ParseClient.csproj.GenerateResource.Cache
+D:\projects\TestTask.www.consultant.ru\ParseClient\obj\Debug\ParseClient.exe
+D:\projects\TestTask.www.consultant.ru\ParseClient\obj\Debug\ParseClient.pdb
+D:\projects\TestTask.www.consultant.ru\ParseClient\obj\Debug\ParseClient.csprojResolveAssemblyReference.cache

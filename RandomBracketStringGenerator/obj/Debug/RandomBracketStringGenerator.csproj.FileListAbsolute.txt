@@ -1,0 +1,6 @@
+D:\projects\TestTask.www.consultant.ru\RandomBracketStringGenerator\bin\Debug\RandomBracketStringGenerator.exe.config
+D:\projects\TestTask.www.consultant.ru\RandomBracketStringGenerator\bin\Debug\RandomBracketStringGenerator.exe
+D:\projects\TestTask.www.consultant.ru\RandomBracketStringGenerator\bin\Debug\RandomBracketStringGenerator.pdb
+D:\projects\TestTask.www.consultant.ru\RandomBracketStringGenerator\obj\Debug\RandomBracketStringGenerator.exe
+D:\projects\TestTask.www.consultant.ru\RandomBracketStringGenerator\obj\Debug\RandomBracketStringGenerator.pdb
+D:\projects\TestTask.www.consultant.ru\RandomBracketStringGenerator\obj\Debug\RandomBracketStringGenerator.csprojResolveAssemblyReference.cache

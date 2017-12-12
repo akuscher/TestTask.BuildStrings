@@ -1,0 +1,8 @@
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\obj\Debug\ParseLibHost.csprojResolveAssemblyReference.cache
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\bin\Debug\ParseLib.dll
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\bin\Debug\ParseLib.pdb
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\bin\Debug\ParseLibHost.exe.config
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\bin\Debug\ParseLibHost.exe
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\bin\Debug\ParseLibHost.pdb
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\obj\Debug\ParseLibHost.exe
+D:\projects\TestTask.www.consultant.ru\ParseLibHost\obj\Debug\ParseLibHost.pdb

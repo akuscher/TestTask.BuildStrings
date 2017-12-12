@@ -1,0 +1,8 @@
+D:\projects\MathServiceLibrary\MathServiceHost\bin\Debug\MathServiceHost.exe.config
+D:\projects\MathServiceLibrary\MathServiceHost\bin\Debug\MathServiceHost.exe
+D:\projects\MathServiceLibrary\MathServiceHost\bin\Debug\MathServiceHost.pdb
+D:\projects\MathServiceLibrary\MathServiceHost\bin\Debug\MathServiceLibrary.dll
+D:\projects\MathServiceLibrary\MathServiceHost\bin\Debug\MathServiceLibrary.pdb
+D:\projects\MathServiceLibrary\MathServiceHost\obj\Debug\MathServiceHost.csprojResolveAssemblyReference.cache
+D:\projects\MathServiceLibrary\MathServiceHost\obj\Debug\MathServiceHost.exe
+D:\projects\MathServiceLibrary\MathServiceHost\obj\Debug\MathServiceHost.pdb

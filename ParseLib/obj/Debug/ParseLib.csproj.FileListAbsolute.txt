@@ -1,0 +1,5 @@
+D:\projects\TestTask.www.consultant.ru\ParseLib\bin\Debug\ParseLib.dll.config
+D:\projects\TestTask.www.consultant.ru\ParseLib\bin\Debug\ParseLib.dll
+D:\projects\TestTask.www.consultant.ru\ParseLib\bin\Debug\ParseLib.pdb
+D:\projects\TestTask.www.consultant.ru\ParseLib\obj\Debug\ParseLib.dll
+D:\projects\TestTask.www.consultant.ru\ParseLib\obj\Debug\ParseLib.pdb
